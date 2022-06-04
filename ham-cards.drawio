@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T05:25:40.877Z" agent="5.0 (Windows)" etag="hajYQRYmXoMn5QnwOEsj" version="19.0.0" type="device" pages="2"><diagram id="VX2I8Gq_HmCh0xjLISea" name="00-front">dZLdcsIgEIWfhvsI/tTLGmPb6XTUOq3XFGjClLApIWP06UsKioztDbP7sYezswsied0/GNpUL8CFQjjjPSJLhPHdiLhzAEcPxnjiQWkk92gUwU6eRIBZoJ3kok0KLYCyskkhA60FswmjxsAhLfsElbo2tBQ3YMeouqV7yW3l6XQ8ifxRyLIKzngeBB+UfZUGOs2f6osFmi0Qnn534KoXrWExQeQ+Jpxa6sBva3jlxoTz9y17fT7Z9m1DjkW2Z2ur7ZV6tvSuNT13GMbXVpTD4QqRApHcwCAborrPhRoWdl6G163+ub1Mwwht/xC4IL7tkuRXkOIH</diagram><diagram id="VQcRKztsUP3yE0WcOtnt" name="_background">jZNtT4MwEMc/DS+X8LTpXsrc9I2JcTHGlw290WZtD0s3YJ/eIgcMzRJDQtpf76F392+QbHTzZFkpXpCDCuKQN0HyGMRxfJf4fwfaHkQpgcJKTmgCe3kBgiHRk+RQzQwdonKynMMcjYHczRizFuu52QHVPGvJCvgD9jlTf+mH5E70dJUuJ/4MshCUOV6Tg2aDLRVSCcaxvkLJNkg2FtH1K91sQHWtG9rS++1unI73smDcfxwOTK/vW3z7Wnwmu8v2FY/vckFRzkydqF7B9CJnllce+y8OV2FKBbh2aIqDxufMhNPKg8gvK2fxCBtUaD0xaLxldpBK/UJMycL4re1blp3BOum7/UBcS867LFktpIN9yfIuZe2l5ZnFk+HQ1RN20dE40ks07umOQ10+OjQ3GxaNY/DqBdTgbOtNyGEZ0ozbQco0yXrSQZQSE9caGORH0ivG0NN4/IImNGwnJfycXb2mZPsN</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-04T05:47:44.779Z" agent="5.0 (Windows)" etag="vCfRpQU8q-tZD9SeLkix" version="19.0.0" type="github" pages="3">
+  <diagram id="VX2I8Gq_HmCh0xjLISea" name="00-front">
+    <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="645" pageHeight="291" backgroundImage="{&quot;src&quot;:&quot;data:page/id,VQcRKztsUP3yE0WcOtnt&quot;}" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SK5KXDUex5gzWunTqwDv-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="01-sota01" id="xtUq1dlQ54uVs1LDPz2H">
+    <mxGraphModel dx="981" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="645" pageHeight="291" backgroundImage="{&quot;src&quot;:&quot;data:page/id,VQcRKztsUP3yE0WcOtnt&quot;}" math="0" shadow="0">
+      <root>
+        <mxCell id="NGGMG-nWNpWTAppLKR7F-0" />
+        <mxCell id="NGGMG-nWNpWTAppLKR7F-1" parent="NGGMG-nWNpWTAppLKR7F-0" />
+        <mxCell id="_ZZACFb_iY7UFNzKUgOZ-2" value="&lt;div&gt;&lt;b&gt;SMS 2 SOTA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Register phone number to mm0fmf@hotmail.com&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CALLSIGN ASS SUMREF FREQ MODE COMMENT&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;! F AM057 7.1 SSB QRV&lt;/b&gt; (auto add /P)&lt;br&gt;&lt;b&gt;$ F AM057 7,1 SSB QRV&lt;/b&gt; (callsign only)&lt;br&gt;&lt;b&gt;I/F4IYY I PM097 7.1 SSB QRV&lt;/b&gt; (auto add /P)&lt;br&gt;&lt;b&gt;I/F4IYY. I PM097 7,1 SSB QRV&lt;/b&gt; (callsign only)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=10;arcSize=9;align=left;" vertex="1" parent="NGGMG-nWNpWTAppLKR7F-1">
+          <mxGeometry x="10" y="10" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZZACFb_iY7UFNzKUgOZ-3" value="&lt;div&gt;&lt;b&gt;DMR 2 SOTA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Setup TG &lt;/i&gt;&lt;i&gt;214996  as private&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CALLSIGN ASS SUMREF FREQ MODE COMMENT&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;! F AM057 7.1 SSB QRV&lt;/b&gt; (auto add /P)&lt;br&gt;&lt;b&gt;$ F AM057 7,1 SSB QRV&lt;/b&gt; (callsign only)&lt;br&gt;&lt;b&gt;I/F4IYY I PM097 7.1 SSB QRV&lt;/b&gt; (auto add /P)&lt;br&gt;&lt;b&gt;I/F4IYY. I PM097 7,1 SSB QRV&lt;/b&gt; (callsign only)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=10;arcSize=9;align=left;" vertex="1" parent="NGGMG-nWNpWTAppLKR7F-1">
+          <mxGeometry x="10" y="150" width="320" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VQcRKztsUP3yE0WcOtnt" name="_background">
+    <mxGraphModel dx="273" dy="143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="645" pageHeight="291" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fam98yoRq-Y3FzEPokUi-1" value="ham-cards 20220604" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="505" y="270" width="140" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
