@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T14:50:47.409Z" agent="5.0 (Windows)" etag="NabChjXBYcEVEi4JNPC5" version="19.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-07T14:51:35.662Z" agent="5.0 (Windows)" etag="wNZN63mGmKnprY4PO-4Y" version="19.0.2" type="github" pages="4">
   <diagram id="VX2I8Gq_HmCh0xjLISea" name="00-front">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="645" pageHeight="291" background="#ffffff" math="0" shadow="0">
       <root>
@@ -58,15 +58,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="02-bandes" id="5K_73aOQM0lKPfRULOq0">
-    <mxGraphModel dx="813" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="645" pageHeight="291" backgroundImage="{&quot;src&quot;:&quot;data:page/id,VQcRKztsUP3yE0WcOtnt&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="273" dy="143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="645" pageHeight="291" backgroundImage="{&quot;src&quot;:&quot;data:page/id,VQcRKztsUP3yE0WcOtnt&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="J2K8tkmxWcblZyr1jBVa-0" />
         <mxCell id="J2K8tkmxWcblZyr1jBVa-1" parent="J2K8tkmxWcblZyr1jBVa-0" />
         <mxCell id="1B3VpBIQr35AsPXFMq54-3" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;250W&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#CCCCCC;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;rotation=90;fontSize=10;fontColor=#333333;" parent="J2K8tkmxWcblZyr1jBVa-1" vertex="1">
-          <mxGeometry x="73.05" y="95.7" width="33.75" height="139.86" as="geometry" />
+          <mxGeometry x="71.45" y="97.3" width="36.95" height="139.86" as="geometry" />
         </mxCell>
         <mxCell id="1B3VpBIQr35AsPXFMq54-5" value="120W" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;rotation=90;fontSize=10;fontColor=#333333;" parent="J2K8tkmxWcblZyr1jBVa-1" vertex="1">
-          <mxGeometry x="58.77" y="144.12" width="62" height="139.86" as="geometry" />
+          <mxGeometry x="59.69" y="145.05" width="60.15" height="139.86" as="geometry" />
         </mxCell>
         <mxCell id="1B3VpBIQr35AsPXFMq54-6" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;500W&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#B3B3B3;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;rotation=90;fontSize=10;fontColor=#333333;" parent="J2K8tkmxWcblZyr1jBVa-1" vertex="1">
           <mxGeometry x="30.69" y="19.31" width="118.47" height="139.86" as="geometry" />
